@@ -4,6 +4,16 @@ A Streamlit web app that analyzes sentiment in reviews using AI. Upload CSV file
 
 > **Note**: This project was created earlier and is now being uploaded to GitHub.
 
+## Demo
+
+![Demo](Screenshots/demo.gif)
+
+## Screenshots
+
+| Main Page | Results |
+|-----------|---------|
+| ![Main](Screenshots/main.png) | ![Result](Screenshots/result.png) |
+
 ## Features
 
 - Upload CSV files with review data
